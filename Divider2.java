@@ -1,4 +1,4 @@
-package laxmiiCSC123Sp21Ass7;
+package laxmiCSC123Sp21Ass7;
 
 public class Divider2 
 {
