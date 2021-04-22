@@ -1,4 +1,4 @@
-package Assignement7;
+package laxmiiCSC123Sp21Ass7;
 
 import java.util.Scanner;
 
